@@ -7,3 +7,4 @@ List of steps taken:
 6. Project Settings > XR Plug-in Management > Project Validation -> Fix All
 7. Project Settings > XR Plug-in Management > Android Settings -> Make sure none of the plugin providers are selected
 8. Prepare simple sample scene with InputField
+9. 9. Check "Require System keyboard" in Oculus Project config
